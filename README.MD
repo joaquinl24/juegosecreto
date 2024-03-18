@@ -2,4 +2,6 @@
 
 -Estado del proyecto: En construcción.
 
-'''npm install react'''
+
+´´´ npm install react ´´´
+
